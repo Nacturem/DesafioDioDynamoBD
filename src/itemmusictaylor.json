@@ -1,0 +1,7 @@
+{
+    "Artist": {"S": "Taylor Swift"},
+    "SongTitle": {"S": "Last Kiss"},
+    "AlbumTitle": {"S": "Speak Now"},
+    "SongYear": {"S": "2010"}
+  }
+  

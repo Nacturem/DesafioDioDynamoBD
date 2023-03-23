@@ -1,0 +1,34 @@
+{
+    "PopMusic": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "Sparks Fly"},
+                  "AlbumTitle": {"S": "Speak Now"},
+                  "SongYear": {"S": "2010"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "Mean"},
+                  "AlbumTitle": {"S": "Speak Now"},
+                  "SongYear": {"S": "2010"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Taylor Swift"},
+                  "SongTitle": {"S": "The Story Of Us"},
+                  "AlbumTitle": {"S": "Speak Now"},
+                  "SongYear": {"S": "2010"}
+                }
+            }
+        }
+      ]
+}

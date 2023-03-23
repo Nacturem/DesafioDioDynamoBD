@@ -1,0 +1,4 @@
+Desafio DyanomoBD da Dio.
+
+Neste desafio teríamos que fazer algumas alterações no Banco de dados não relacional trabalhado nas aulas.
+Decidi acrescentar uma nova table chamada Popmusic, inseri 5 dados e criei 3 index.
